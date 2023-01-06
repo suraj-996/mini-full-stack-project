@@ -6,6 +6,21 @@
 * Update the employee details
 * Delete the employee details
 
+## Tech Stack
+
+### Frontend
+
+* React JS
+
+### Backend
+
+* Java
+* Spring Framework
+* Spring Boot
+* Spring Data JPA
+* MySQL
+
+
 ## See All the employee
 ![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/all.png)
 
