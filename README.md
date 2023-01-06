@@ -12,7 +12,7 @@
 
 * React JS
 * HTML
-* Tailwind CSS
+* CSS
 
 ### Backend
 
