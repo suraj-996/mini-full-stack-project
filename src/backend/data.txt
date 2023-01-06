@@ -1,0 +1,9 @@
++--------+------------------------+------------+-----------+
+| emp_id | email_id               | first_name | last_name |
++--------+------------------------+------------+-----------+
+|      2 | suraj@gmail.com        | Suraj      | Kumar     |
+|      3 | pryagpatel8@gmail.com  | Prayag     | Patel     |
+|      4 | sanajitjana@gmail.com  | Sanajit    | Jana      |
+|      5 | aman@gmail.com         | Aman       | Kumar     |
+|      6 | prateek@masaichool.com | Prateek    | Shukla    |
++--------+------------------------+------------+-----------+
