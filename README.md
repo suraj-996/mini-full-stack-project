@@ -7,4 +7,12 @@
 * Delete the employee details
 
 ## See All the employee
-![Employee](https://user-images.githubusercontent.com/86916671/201477506-29a8c28e-f0af-4c45-954a-960304d985ea.jpeg)
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/all.png)
+
+
+## Add Employee
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/add.png)
+
+
+## Update Employee
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/update.png)
