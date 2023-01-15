@@ -24,12 +24,12 @@
 
 
 ## See All the employee
-![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/all.png)
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/employee-management-system/images/all.png)
 
 
 ## Add Employee
-![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/add.png)
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/employee-management-system/images/add.png)
 
 
 ## Update Employee
-![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/images/update.png)
+![Employee](https://github.com/suraj-996/mini-full-stack-project/blob/main/employee-management-system/images/update.png)
