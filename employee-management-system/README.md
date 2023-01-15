@@ -11,6 +11,8 @@
 ### Frontend
 
 * React JS
+* HTML
+* CSS
 
 ### Backend
 
